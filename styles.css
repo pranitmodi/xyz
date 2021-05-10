@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgb(214, 230, 200);
+}
+hr
+{
+    border-style: dotted none none;
+    height: 0px;
+    border-width: 7px;
+    border-color:tomato;
+    width: 5%;
+}
+h1
+{
+    color: rgb(59, 126, 126);
+}
+h2
+{
+    color: rgb(68, 139, 116);
+}
